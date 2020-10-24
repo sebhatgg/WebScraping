@@ -8,7 +8,6 @@ import csv
 r = requests.get('https://www.census.gov/programs-surveys/popest.html')
 <<<<<<< HEAD
 =======
-
 >>>>>>> df8f9a877bee4ddaf8e4389054b57f0c904484b1
 soup = BeautifulSoup(r.text, 'html.parser')
 #for link in soup.find_all('a'):
