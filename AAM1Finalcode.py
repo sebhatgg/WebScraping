@@ -35,9 +35,3 @@ with open("aam1taskRev.csv",'w') as csvfile:
     csvfile.close()
 =======
 
-# In[25]:
-
-
-print(len(sg))
-
->>>>>>> df8f9a877bee4ddaf8e4389054b57f0c904484b1
